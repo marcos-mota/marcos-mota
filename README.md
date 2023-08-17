@@ -5,8 +5,8 @@
 
 <div>
 <a href="https://github.com/marcos-mota">
-<img height="250em" src="https://github-readme-stats.vercel.app/api?username=marcos-mota&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
-<img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-mota&layout-compact&langs_count=16&theme=dracula"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=marcos-mota&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-mota&layout-compact&langs_count=16&theme=dracula"/>
 </div>
 
   ##
